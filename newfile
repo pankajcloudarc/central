@@ -1,0 +1,20 @@
+hey there
+git log = ky acommit hua h
+
+ git sh9ow <comm it>
+
+ git remote add origin https://github.com/pankajcloudarc/central.git [connected to repo]
+
+git push -u origin master [oirign= the url of repo]
+           or
+
+ git push --set-upstream origin master /git push origin master --force *****************
+
+
+
+to modify = cat >filea
+filehas a new update
+
+
+
+git status = [to see wht has be en modified]
